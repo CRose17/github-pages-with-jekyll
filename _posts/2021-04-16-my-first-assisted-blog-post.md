@@ -1,6 +1,6 @@
 ---
 title: "Not so subtle updates"
-date: 2021 -04-16
+date: 2021-04-16
 ---
 # A blog with a Git Bot assist
 ## The trials continue....
