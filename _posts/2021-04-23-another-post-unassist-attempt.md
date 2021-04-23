@@ -1,0 +1,3 @@
+# A post update without usinga GitBot assist...
+## Worked today in freecodecamp.org 🤔
+### Will be taking my bundles of sunshine to the park for family exercise time❗
